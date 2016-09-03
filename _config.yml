@@ -1,19 +1,4 @@
-name: GNLP
-favicon: null
-layout_spectrum: 0.2089129127562046
 typography_spectrum: 0.5658227095846087
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#E0FBFC'
@@ -25,4 +10,21 @@ color:
   lightness: 0.7627854645252228
   saturation: 0.16056052432395518
   rhythmicContrast: 0.9972610417753458
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.2089129127562046
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: Charles Moore
+name: GNLP
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 purpose: []
